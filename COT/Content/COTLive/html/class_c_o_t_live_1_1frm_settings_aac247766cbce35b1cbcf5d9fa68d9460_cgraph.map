@@ -1,0 +1,7 @@
+<map id="COTLive.frmSettings.btnSave_Click" name="COTLive.frmSettings.btnSave_Click">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1frm_settings.html#a4ddc4c8c2813c27f745f9c6db1f83779" title="Runs error handling methods " alt="" coords="244,93,416,135"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1frm_settings.html#a704f57fbaa6087b7f3cce7c3945a77c1" title="Verifies the email addresses entered on the form are in correct format " alt="" coords="476,5,649,47"/>
+<area shape="rect" id="node4" href="$class_c_o_t_live_1_1frm_settings.html#a91f00db94202d30cdb21aa04c47fd1d7" title="Verifies the API URL entered on the form are in correct format " alt="" coords="468,71,657,98"/>
+<area shape="rect" id="node5" href="$class_c_o_t_live_1_1frm_settings.html#ab311f3e85b9995237af2c9f068499a02" title="Verifies the email hostname entered on the form are in correct format " alt="" coords="476,123,649,164"/>
+<area shape="rect" id="node6" href="$class_c_o_t_live_1_1frm_settings.html#a8869c66e85d8b9e4faa4bf60e37e437e" title="Verifies the port entered is a number " alt="" coords="464,189,661,215"/>
+</map>

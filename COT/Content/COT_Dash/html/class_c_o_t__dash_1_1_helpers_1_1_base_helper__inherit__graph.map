@@ -1,0 +1,5 @@
+<map id="COT_dash.Helpers.BaseHelper" name="COT_dash.Helpers.BaseHelper">
+<area shape="rect" id="node2" href="$class_c_o_t__dash_1_1_helpers_1_1_department_helper.html" title="{COT_dash.Helpers.Department\lHelper\n||+ GetNumOpenAndClosed()\l+ GetMostOpenAndClosed()\l+ GetOpenAndClosedByDist()\l+ GetDepartmentComparison()\l+ GetTopRequestsInDept()\l+ GetAvgCompletionTimeByRequestType()\l}" alt="" coords="5,197,275,362"/>
+<area shape="rect" id="node3" href="$class_c_o_t__dash_1_1_helpers_1_1_district_helper.html" title="{COT_dash.Helpers.District\lHelper\n||+ GetNumOpenAndClosed()\l+ GetOpenAndClosedByDist()\l+ GetOpenAndClosedByDept()\l+ GetTopDepartmentsOpen()\l+ GetAvgCompletionTimeByDept()\l+ GetAvgCompletionTimeByRequestType()\l+ GetTopRequestsInDist()\l}" alt="" coords="299,189,568,369"/>
+<area shape="rect" id="node4" href="$class_c_o_t__dash_1_1_helpers_1_1_home_helper.html" title="{COT_dash.Helpers.HomeHelper\n||+ GetNumOpen()\l+ GetNumOpenAndClosed()\l+ GetOpenAndClosedByDist()\l+ GetMostOpenAndClosed()\l+ GetOpenAndClosedByDept()\l+ GetTopDepartmentsClosed()\l+ GetTopDepartmentsOpen()\l+ GetTopRequestTypes()\l}" alt="" coords="593,189,799,369"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="COT_dash.Startup.Configuration" name="COT_dash.Startup.Configuration">
+<area shape="rect" id="node2" href="$class_c_o_t__dash_1_1_startup.html#a406dbc62a733bbffaae56941910a5746" title="COT_dash.Startup.ConfigureAuth" alt="" coords="261,46,476,73"/>
+<area shape="rect" id="node3" href="$class_c_o_t__dash_1_1_application_user_manager.html#a6f962566c1e4d8eebca79c8b58d1d65f" title="COT_dash.ApplicationUser\lManager.Create" alt="" coords="524,5,703,47"/>
+<area shape="rect" id="node4" href="$class_c_o_t__dash_1_1_application_sign_in_manager.html#ae0568dfbb7d7640fd31734c2504cfc3c" title="COT_dash.ApplicationSign\lInManager.Create" alt="" coords="525,71,702,112"/>
+</map>

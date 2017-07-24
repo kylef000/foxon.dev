@@ -1,0 +1,9 @@
+<map id="COTLive.ApiHelper.LogLines" name="COTLive.ApiHelper.LogLines">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1_api_helper.html#aa8a0ec731844ec9f2e91497a3574a90e" title="Checks if the log file needs to be rotated given appropriate settings " alt="" coords="240,5,449,32"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1_settings_helper.html#a35406ec71251964c294f8bf4712ef761" title="Saves settings properties to App.config file " alt="" coords="503,46,694,87"/>
+<area shape="rect" id="node5" href="$class_c_o_t_live_1_1_api_helper.html#aec74e26db50e56274823549b39190e49" title="Takes in logging data, displays it to the main form and stores the log entry in a list to be processe..." alt="" coords="255,111,434,137"/>
+<area shape="rect" id="node4" href="$class_c_o_t_live_1_1_settings_helper.html#a8d16ca9a8e975637f15c58d4103e9289" title="Encrypts Email Password using 256 bit AES " alt="" coords="748,53,956,80"/>
+<area shape="rect" id="node6" href="$class_c_o_t_live_1_1frm_main.html#a8a804e50194dd5883707e7121acfb22e" title="Appends a log message to the logBox. This method exists to solve the issue of attempting to use a dif..." alt="" coords="497,112,700,139"/>
+<area shape="rect" id="node7" href="$class_c_o_t_live_1_1_email_helper.html#a9da1e01fe222f550a298df7e3fae693a" title="Sends an error message to a specified recipient given email settings. " alt="" coords="509,163,688,205"/>
+<area shape="rect" id="node8" href="$class_c_o_t_live_1_1_email_helper.html#a746f1ec8b1e3c22ef8446941dd91ddc7" title="Generates an Email message " alt="" coords="751,171,953,197"/>
+</map>

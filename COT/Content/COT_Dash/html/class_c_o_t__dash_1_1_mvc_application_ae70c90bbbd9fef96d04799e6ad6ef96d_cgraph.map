@@ -1,0 +1,6 @@
+<map id="COT_dash.MvcApplication.Application_Start" name="COT_dash.MvcApplication.Application_Start">
+<area shape="rect" id="node2" href="$class_c_o_t__dash_1_1_web_api_config.html#a2a10eca6c4515ad81fb04bd169de0c80" title="COT_dash.WebApiConfig.Register" alt="" coords="232,5,453,32"/>
+<area shape="rect" id="node3" href="$class_c_o_t__dash_1_1_filter_config.html#a75fadd269436b5d5bf5bf3380fe9d913" title="COT_dash.FilterConfig.Register\lGlobalFilters" alt="" coords="241,57,445,98"/>
+<area shape="rect" id="node4" href="$class_c_o_t__dash_1_1_route_config.html#adc9befba42c192d1a98872c913f04f52" title="COT_dash.RouteConfig.Register\lRoutes" alt="" coords="238,122,447,163"/>
+<area shape="rect" id="node5" href="$class_c_o_t__dash_1_1_bundle_config.html#a4604433826cb6d411d7bef77ee574ae0" title="COT_dash.BundleConfig.Register\lBundles" alt="" coords="235,187,450,229"/>
+</map>

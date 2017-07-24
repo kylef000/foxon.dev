@@ -1,0 +1,12 @@
+<map id="COTLive.ApiHelper.Logging" name="COTLive.ApiHelper.Logging">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1_api_helper.html#a7ab9422979c4522d04e82859a79bb703" title="Makes the call and stores the initial results in the list " alt="" coords="251,5,439,32"/>
+<area shape="rect" id="node6" href="$class_c_o_t_live_1_1_api_helper.html#a26c8d75744798d0fad9f4a0596cfd35a" title="Stores the new records into the database " alt="" coords="233,56,457,83"/>
+<area shape="rect" id="node7" href="$class_c_o_t_live_1_1_api_helper.html#a227db34963ed14cb19d793fbd45c9b42" title="Checks for duplicate entries in the new data set as well as the old data set " alt="" coords="232,107,457,133"/>
+<area shape="rect" id="node8" href="$class_c_o_t_live_1_1_api_helper.html#a42693a63a0fc8f98c3b53df243b5965d" title="Removes closed requests older than a certain date from the database " alt="" coords="253,157,437,184"/>
+<area shape="rect" id="node9" href="$class_c_o_t_live_1_1_api_helper.html#af64ac438fd2ab1d4a9387ed1cead9166" title="Appends log messages queues in a list to the log file " alt="" coords="251,208,438,235"/>
+<area shape="rect" id="node10" href="$class_c_o_t_live_1_1_api_helper.html#af8df0dfe23fb15d7ffeceae56430cfb0" title="Tests the connection to the database " alt="" coords="233,259,457,285"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1frm_main.html#acd034b57cdced70ed336dce4116553d7" title="Run the API Call process and truncates necessary data. " alt="" coords="505,107,700,133"/>
+<area shape="rect" id="node4" href="$class_c_o_t_live_1_1frm_main.html#a4569d992fc1908d27f6d195b00a1fbd8" title="Runs the API Call process every time the interval elapses. The interval is set within the method so t..." alt="" coords="748,107,895,133"/>
+<area shape="rect" id="node5" href="$class_c_o_t_live_1_1frm_main.html#a65d6d8ae2ca14795ce07ddbd78686ea4" title="COTLive.frmMain.startBtn\l_Click" alt="" coords="943,99,1113,141"/>
+<area shape="rect" id="node11" href="$class_c_o_t_live_1_1_api_helper.html#a60e302395f587bee55f491d04f838829" title="COTLive.ApiHelper.ApiHelper" alt="" coords="507,259,698,285"/>
+</map>

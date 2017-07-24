@@ -1,0 +1,5 @@
+<map id="COTLive.SettingsHelper.SettingsHelper" name="COTLive.SettingsHelper.SettingsHelper">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1_settings_helper.html#a36e350a40d71a5e56fe029a5ae1c0584" title="Loads settings from App.config file to settings properties " alt="" coords="269,5,460,47"/>
+<area shape="rect" id="node4" href="$class_c_o_t_live_1_1_settings_helper.html#a3a744b3b6441f1316227402c1b7d259e" title="Toggles the encryption of a section of the App.config file " alt="" coords="264,71,465,112"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1_settings_helper.html#af4fe0466846d7a4680194bfcbf73bd27" title="Decrypt Email Password " alt="" coords="513,13,721,39"/>
+</map>

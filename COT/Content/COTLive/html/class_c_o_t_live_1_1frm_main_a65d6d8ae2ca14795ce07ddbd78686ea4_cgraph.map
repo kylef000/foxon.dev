@@ -1,0 +1,18 @@
+<map id="COTLive.frmMain.startBtn_Click" name="COTLive.frmMain.startBtn_Click">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1_settings_helper.html#abde74fa20cac6ea30979ef85ca914ec8" title="Ensures that all settings have been fully set; in the case that Error notifications are turned off..." alt="" coords="224,5,424,47"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1frm_main.html#a8a804e50194dd5883707e7121acfb22e" title="Appends a log message to the logBox. This method exists to solve the issue of attempting to use a dif..." alt="" coords="1245,145,1448,171"/>
+<area shape="rect" id="node4" href="$class_c_o_t_live_1_1frm_main.html#a4569d992fc1908d27f6d195b00a1fbd8" title="Runs the API Call process every time the interval elapses. The interval is set within the method so t..." alt="" coords="251,181,397,207"/>
+<area shape="rect" id="node5" href="$class_c_o_t_live_1_1frm_main.html#acd034b57cdced70ed336dce4116553d7" title="Run the API Call process and truncates necessary data. " alt="" coords="472,239,667,266"/>
+<area shape="rect" id="node6" href="$class_c_o_t_live_1_1_settings_helper.html#a202cdddf2aa9a7f46c2623d336313800" title="Toggles the encryption of the connection string " alt="" coords="727,123,928,164"/>
+<area shape="rect" id="node7" href="$class_c_o_t_live_1_1_api_helper.html#a7ab9422979c4522d04e82859a79bb703" title="Makes the call and stores the initial results in the list " alt="" coords="733,189,921,215"/>
+<area shape="rect" id="node13" href="$class_c_o_t_live_1_1_api_helper.html#a227db34963ed14cb19d793fbd45c9b42" title="Checks for duplicate entries in the new data set as well as the old data set " alt="" coords="715,239,940,266"/>
+<area shape="rect" id="node14" href="$class_c_o_t_live_1_1_api_helper.html#a26c8d75744798d0fad9f4a0596cfd35a" title="Stores the new records into the database " alt="" coords="715,290,939,317"/>
+<area shape="rect" id="node15" href="$class_c_o_t_live_1_1_api_helper.html#a42693a63a0fc8f98c3b53df243b5965d" title="Removes closed requests older than a certain date from the database " alt="" coords="735,341,919,367"/>
+<area shape="rect" id="node16" href="$class_c_o_t_live_1_1_api_helper.html#af64ac438fd2ab1d4a9387ed1cead9166" title="Appends log messages queues in a list to the log file " alt="" coords="734,391,921,418"/>
+<area shape="rect" id="node8" href="$class_c_o_t_live_1_1_api_helper.html#aec74e26db50e56274823549b39190e49" title="Takes in logging data, displays it to the main form and stores the log entry in a list to be processe..." alt="" coords="1003,283,1182,310"/>
+<area shape="rect" id="node9" href="$class_c_o_t_live_1_1_email_helper.html#a9da1e01fe222f550a298df7e3fae693a" title="Sends an error message to a specified recipient given email settings. " alt="" coords="1257,268,1436,309"/>
+<area shape="rect" id="node11" href="$class_c_o_t_live_1_1_settings_helper.html#a35406ec71251964c294f8bf4712ef761" title="Saves settings properties to App.config file " alt="" coords="1251,333,1442,375"/>
+<area shape="rect" id="node10" href="$class_c_o_t_live_1_1_email_helper.html#a746f1ec8b1e3c22ef8446941dd91ddc7" title="Generates an Email message " alt="" coords="1499,275,1701,302"/>
+<area shape="rect" id="node12" href="$class_c_o_t_live_1_1_settings_helper.html#a8d16ca9a8e975637f15c58d4103e9289" title="Encrypts Email Password using 256 bit AES " alt="" coords="1496,341,1704,367"/>
+<area shape="rect" id="node17" href="$class_c_o_t_live_1_1_api_helper.html#aa8a0ec731844ec9f2e91497a3574a90e" title="Checks if the log file needs to be rotated given appropriate settings " alt="" coords="988,391,1197,418"/>
+</map>

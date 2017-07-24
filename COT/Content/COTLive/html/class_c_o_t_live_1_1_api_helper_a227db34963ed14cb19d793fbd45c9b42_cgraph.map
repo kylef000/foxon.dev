@@ -1,0 +1,8 @@
+<map id="COTLive.ApiHelper.CheckDuplicate" name="COTLive.ApiHelper.CheckDuplicate">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1_api_helper.html#aec74e26db50e56274823549b39190e49" title="Takes in logging data, displays it to the main form and stores the log entry in a list to be processe..." alt="" coords="279,64,457,91"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1frm_main.html#a8a804e50194dd5883707e7121acfb22e" title="Appends a log message to the logBox. This method exists to solve the issue of attempting to use a dif..." alt="" coords="505,5,708,32"/>
+<area shape="rect" id="node4" href="$class_c_o_t_live_1_1_email_helper.html#a9da1e01fe222f550a298df7e3fae693a" title="Sends an error message to a specified recipient given email settings. " alt="" coords="517,57,696,98"/>
+<area shape="rect" id="node6" href="$class_c_o_t_live_1_1_settings_helper.html#a35406ec71251964c294f8bf4712ef761" title="Saves settings properties to App.config file " alt="" coords="511,122,702,163"/>
+<area shape="rect" id="node5" href="$class_c_o_t_live_1_1_email_helper.html#a746f1ec8b1e3c22ef8446941dd91ddc7" title="Generates an Email message " alt="" coords="759,64,961,91"/>
+<area shape="rect" id="node7" href="$class_c_o_t_live_1_1_settings_helper.html#a8d16ca9a8e975637f15c58d4103e9289" title="Encrypts Email Password using 256 bit AES " alt="" coords="756,129,964,156"/>
+</map>

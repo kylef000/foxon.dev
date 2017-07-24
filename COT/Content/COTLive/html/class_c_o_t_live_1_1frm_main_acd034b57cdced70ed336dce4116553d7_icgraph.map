@@ -1,0 +1,4 @@
+<map id="COTLive.frmMain.ProcessCall" name="COTLive.frmMain.ProcessCall">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1frm_main.html#a4569d992fc1908d27f6d195b00a1fbd8" title="Runs the API Call process every time the interval elapses. The interval is set within the method so t..." alt="" coords="248,13,395,39"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1frm_main.html#a65d6d8ae2ca14795ce07ddbd78686ea4" title="COTLive.frmMain.startBtn\l_Click" alt="" coords="443,5,613,47"/>
+</map>

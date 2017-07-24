@@ -1,0 +1,6 @@
+<map id="COTLive.ApiHelper.CheckRotate" name="COTLive.ApiHelper.CheckRotate">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1_api_helper.html#af64ac438fd2ab1d4a9387ed1cead9166" title="Appends log messages queues in a list to the log file " alt="" coords="263,13,449,39"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1frm_main.html#acd034b57cdced70ed336dce4116553d7" title="Run the API Call process and truncates necessary data. " alt="" coords="497,13,692,39"/>
+<area shape="rect" id="node4" href="$class_c_o_t_live_1_1frm_main.html#a4569d992fc1908d27f6d195b00a1fbd8" title="Runs the API Call process every time the interval elapses. The interval is set within the method so t..." alt="" coords="740,13,887,39"/>
+<area shape="rect" id="node5" href="$class_c_o_t_live_1_1frm_main.html#a65d6d8ae2ca14795ce07ddbd78686ea4" title="COTLive.frmMain.startBtn\l_Click" alt="" coords="935,5,1105,47"/>
+</map>

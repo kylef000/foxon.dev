@@ -1,0 +1,3 @@
+<map id="COTLive.EmailHelper" name="COTLive.EmailHelper">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1_settings_helper.html" title="{COTLive.SettingsHelper\n|+ ApiUrl\l+ FirstTimeRun\l+ UpdateFrequency\l+ DaysToPull\l+ ToEmailAddress\l+ FromEmailAddress\l+ FromUsername\l+ FromPassword\l+ EmailHostName\l+ EmailPort\land 9 more...\l|+ SettingsHelper()\l+ ToggleConnectionStringEncryption()\l+ ToggleConfigEncryption()\l+ CheckSettings()\l+ SaveSettings()\l+ Encrypt()\l+ Decrypt()\l&#45; LoadSettings()\l}" alt="" coords="5,5,247,332"/>
+</map>

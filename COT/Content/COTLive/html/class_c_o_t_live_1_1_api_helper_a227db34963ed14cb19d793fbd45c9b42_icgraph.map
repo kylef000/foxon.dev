@@ -1,0 +1,5 @@
+<map id="COTLive.ApiHelper.CheckDuplicate" name="COTLive.ApiHelper.CheckDuplicate">
+<area shape="rect" id="node2" href="$class_c_o_t_live_1_1frm_main.html#acd034b57cdced70ed336dce4116553d7" title="Run the API Call process and truncates necessary data. " alt="" coords="279,13,473,39"/>
+<area shape="rect" id="node3" href="$class_c_o_t_live_1_1frm_main.html#a4569d992fc1908d27f6d195b00a1fbd8" title="Runs the API Call process every time the interval elapses. The interval is set within the method so t..." alt="" coords="521,13,668,39"/>
+<area shape="rect" id="node4" href="$class_c_o_t_live_1_1frm_main.html#a65d6d8ae2ca14795ce07ddbd78686ea4" title="COTLive.frmMain.startBtn\l_Click" alt="" coords="716,5,887,47"/>
+</map>
